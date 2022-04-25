@@ -8,6 +8,6 @@
   padding: 42px 44px;
 }
 
-.box .title { /* especifica somente para o(s) .title dentro de .box */
+.box .main-title { /* especifica somente para o(s) .title dentro de .box */
   margin-bottom: 28px;
 }
