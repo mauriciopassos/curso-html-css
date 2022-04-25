@@ -1,0 +1,22 @@
+.action {
+  display: inline-flex;
+
+  font-size: 20px;
+  font-weight: 500;
+
+  color: #FFF;
+
+  text-decoration: none;
+  font-family: inherit;
+  
+  margin-right: 30px;
+  align-items: center;
+}
+
+.action::before { /* pseudo elemento - :: content é obrigatório */
+  content: "";
+  background-color: #F25A70;
+  width: 10px;
+  height: 10px;
+  margin-right: 10px;
+}
