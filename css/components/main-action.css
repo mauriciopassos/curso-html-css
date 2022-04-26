@@ -1,4 +1,4 @@
-.action {
+.main-action {
   display: inline-flex;
 
   font-size: 20px;
@@ -13,7 +13,7 @@
   align-items: center;
 }
 
-.action::before { /* pseudo elemento - :: content é obrigatório */
+.main-action::before { /* pseudo elemento - :: content é obrigatório */
   content: "";
   background-color: #F25A70;
   width: 10px;
