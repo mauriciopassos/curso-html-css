@@ -1,0 +1,10 @@
+.wrapper-card {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+/*
+.wrapper-card .card-project {
+  margin-right: 150px;
+}
+*/
