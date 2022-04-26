@@ -1,0 +1,22 @@
+.main-section {
+  background-color: #F25A70;
+  border-bottom: 10px solid #7C5E99;
+
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.main-section .main-title {
+  margin-bottom: 60px;
+}
+
+
+.main-section.-skills {
+  background-color: #F25A70;
+  border-bottom: 10px solid #7C5E99;
+}
+
+.main-section.-projects {
+  background-color: #000;
+  border-bottom: 10px solid #F25A70;
+}
